@@ -9,7 +9,7 @@ Currently exploring this fields:
 
 ```markdown
 1. Machine Learning
-2. Cloude Computing
+2. Cloud Computing
 ```
 
 
