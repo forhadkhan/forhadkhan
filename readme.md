@@ -29,7 +29,7 @@ A lightweight, client-side editor with instant live preview for HTML, CSS, and J
 A free browser-based Markdown editor with real-time preview, syntax highlighting, LaTeX math (KaTeX), Mermaid diagrams, dark mode, and export to HTML or PDF. No install required. · [Live Site](https://livemarkdown.github.io/)
 
 ### [ProductBay](https://github.com/forhadkhan/productbay)
-A modern, high-performance WooCommerce plugin that bridges a robust PHP backend with a dynamic, reactive frontend, transforming how products are displayed for both admins and customers. Available on [wordpress.org/plugins/productbay](https://wordpress.org/plugins/productbay/). *(Copyright belongs to WPAnchorBay.)*
+A WooCommerce plugin that transforms how products are displayed for admins and customers. Owned the full product lifecycle under WPAnchorBay, released the released the [free version on wp.org](https://wordpress.org/plugins/productbay/), developed the commercial [Pro edition with landing page](https://wpanchorbay.com/plugins/productbay/), and authored the [complete documentation](https://docs.wpanchorbay.com/productbay/) (VitePress). Built with a PHP backend and React (TSX) frontend via `@wordpress/scripts`.
 
 ### [EMIS - Education Management Information System](https://github.com/forhadkhan/emis)
 A comprehensive, production-grade platform for managing educational institutions end-to-end — built with Django, React, PostgreSQL, and JWT-based multi-role authentication.
