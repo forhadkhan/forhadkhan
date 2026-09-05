@@ -37,8 +37,8 @@ A comprehensive, production-grade platform for managing educational institutions
 ### [Image Filter and Searching System](https://github.com/forhadkhan/Image-Filter-and-Searching-System)
 A Python-powered face recognition system for filtering and identifying people across large local image libraries.
 
-### [Tools](https://github.com/forhadkhan/tools)
-A web-based application integrating multiple essential utilities into a single, user-friendly platform — eliminating the need for multiple standalone apps.
+### Tools
+[Tools](https://github.com/forhadkhan/tools) ● [Draftext](https://forhadkhan.github.io/draftext/) ● [quickOCR](https://forhadkhan.github.io/quick-ocr/) ● [TweakCSV](https://forhadkhan.github.io/tweak-csv/)
 
 ---
 
